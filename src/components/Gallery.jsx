@@ -14,7 +14,7 @@ class Gallery extends React.Component{
         return(
             <>
             <NavBar/>
-             <Container> 
+             <Container fluid> 
              <Row> 
 
             <Col lg={3} ms={6} sm={6} xs={12}> 
